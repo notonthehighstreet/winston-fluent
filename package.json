@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "Fluent transport for winston",
   "main": "./lib/winston-fluent.js",
-  "engines": {
-    "node": "6.x"
-  },
   "peerDependencies": {
     "winston": ">=2.0.0"
   },
